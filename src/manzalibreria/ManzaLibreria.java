@@ -1,0 +1,12 @@
+
+package manzalibreria;
+
+
+public class ManzaLibreria {
+
+    
+    public static void main(String[] args) {
+        System.out.println("hola");
+    }
+    
+}
